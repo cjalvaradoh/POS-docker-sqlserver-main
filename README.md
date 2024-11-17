@@ -1,4 +1,5 @@
 Proyecto POS
+
 Archivos incluidos
 docker-compose.yml: Define el servicio de SQL Server.
 init.sql: Script para crear la base de datos uspg_pos, las tablas y los datos iniciales.
